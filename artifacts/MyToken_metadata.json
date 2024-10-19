@@ -128,11 +128,11 @@
 	},
 	"sources": {
 		"metacrafters.sol": {
-			"keccak256": "0xf83a91f8ca23fba08293adf68e1d3a603f445b6427a2a0e657256a06104dbd13",
+			"keccak256": "0x7d325ff707e8bdb50370e1761f90d7ee7584689beaf1c196c5d7b780e762290b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://14ea4f928fe71322e024da970dfd1df890462e5abe121509242979107d77f35a",
-				"dweb:/ipfs/QmbLg3VjxqD7rNM8EgfnFyPRZREYWK13DYQWMyMVodNnk2"
+				"bzz-raw://99dbf6a378add43da372644204d297e2138a89b7cda29742badf11626661b6ae",
+				"dweb:/ipfs/QmP8Lo4KxtP4fA3jESdfJEu2HFMvwzb6TYX1ashfa4xZXK"
 			]
 		}
 	},
